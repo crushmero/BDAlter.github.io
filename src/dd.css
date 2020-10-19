@@ -52,15 +52,15 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     transition: background-color 325ms ease-in, color 375ms ease-in-out;
 }
 .theme-dark .wrapper-3WhCwL {
-    background-color: hsla(227, 10%, 85%, 0.2);
-    color: #bebfc5;
+    background-color: hsla(0, 56%, 60%, 0.2);
+    color: #a72f2f;
 }
 .theme-dark .wrapperHover-1GktnT:hover {
     background-color: #eee6e6;
     color: #0e0b0e;
 }
 .theme-light .wrapper-3WhCwL {
-    background-color: hsla(227, 2%, 9%, 0.2);
+    background-color: hsla(0, 56%, 52%, 0.2);
     color: #181818;
 }
 .theme-light .wrapperHover-1GktnT:hover {
