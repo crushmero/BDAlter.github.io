@@ -43,7 +43,8 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 .themeDark-3Ap_7i {
     background: #0e0b0e;
 }
-.Body .bg-h5JY_X{background-image=url("https://i.imgur.com/EyIWfK4.jpg")}
+
+.body .bg-h5JY_X{background-image=url("https://i.imgur.com/EyIWfK4.jpg")}
 
 .wrapper-3WhCwL {
     border-radius: 5px;
