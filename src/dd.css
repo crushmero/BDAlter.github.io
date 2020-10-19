@@ -43,8 +43,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 .themeDark-3Ap_7i {
     background: #0e0b0e;
 }
-
-.platform-win .bg-h5JY_x {
+.bg-h5JY_x {
 	background-color: transparent;
 	background-image: url("https://i.imgur.com/EyIWfK4.jpg")
 	opacity: 0.6;
