@@ -44,7 +44,17 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     background: #0e0b0e;
 }
 
-.body .bg-h5JY_x{background-image=url("https://i.imgur.com/EyIWfK4.jpg")}
+.appMount-3lHmkl,
+body {
+	background-color: var(--backgroundColor)!important
+}
+
+.bg-h5JY_x {
+	background-color: transparent;
+	background-image: url("https://i.imgur.com/EyIWfK4.jpg")
+	opacity: 0.6;
+	filter: blur(7px)
+}
 
 .wrapper-3WhCwL {
     border-radius: 5px;
