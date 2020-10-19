@@ -19,6 +19,7 @@
 .theme-dark .bg-h5JY_x {
 	background-color: transparent;
 	background-image: url("https://i.imgur.com/EyIWfK4.jpg");
+	background-repeat: no-repeat;
 	opacity: 0.6;
 	
 	filter: blur(7px)
