@@ -20,6 +20,7 @@
 	background-color: transparent;
 	background-image: url("https://i.imgur.com/EyIWfK4.jpg");
 	opacity: 0.6;
+	
 	filter: blur(7px)
 }
 
